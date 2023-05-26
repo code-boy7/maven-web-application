@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KALYANI Technologies, 
+		KALYANI SAJID Technologies, 
 		MAGAL BAZAR Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		 SOALPUR,
 		+91-8983513367,+91-9900012028
