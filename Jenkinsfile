@@ -14,7 +14,7 @@ pipeline {
                 gitrepo()
             }
         }
-        stage(Buid){
+        stage('Buid'){
             steps{
                 maven()
             }
