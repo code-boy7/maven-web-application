@@ -16,7 +16,7 @@ pipeline {
         }
         stage('Buid'){
             steps{
-                MavenBuild()
+                Mavenbuild()
             }
         }  
     }
