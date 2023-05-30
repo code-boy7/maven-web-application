@@ -14,5 +14,10 @@ pipeline {
                 gitrepo()
             }
         }
+        stage(Buid){
+            steps{
+                maven()
+            }
+        }  
     }
 }
