@@ -19,5 +19,10 @@ pipeline {
                 Mavenbuild()
             }
         }  
+        stage('output'){
+            steps{
+                helloWorld()
+            }
+        }
     }
 }
